@@ -8,9 +8,9 @@ using Sitecore.Diagnostics;
 using Sitecore.Mvc.Common;
 using Sitecore.Mvc.ExperienceEditor.Pipelines.RenderPageExtenders;
 
-namespace ExperianceEditorToggle
+namespace ExperienceEditorToggle
 {
-	public class AddExperianceEditorToggle : RenderPageExtendersProcessor
+	public class AddExperienceEditorToggle : RenderPageExtendersProcessor
 	{
 		public override void Process(RenderPageExtendersArgs args)
 		{

@@ -7,8 +7,8 @@
     <ProjectGuid>{E6064F2B-BD04-4D8D-93C5-7DF50BB7EF6E}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ExperianceEditorToggle</RootNamespace>
-    <AssemblyName>ExperianceEditorToggle</AssemblyName>
+    <RootNamespace>ExperienceEditorToggle</RootNamespace>
+    <AssemblyName>ExperienceEditorToggle</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -49,11 +49,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AddExperianceEditorToggle.cs" />
+    <Compile Include="AddExperienceEditorToggle.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="ExperianceEditorToggle.config" />
+    <None Include="ExperienceEditorToggle.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
