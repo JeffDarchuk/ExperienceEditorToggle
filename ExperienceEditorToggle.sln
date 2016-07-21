@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExperienceEditorToggle", "ExperianceEditorToggle\ExperienceEditorToggle.csproj", "{E6064F2B-BD04-4D8D-93C5-7DF50BB7EF6E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExperienceEditorToggle", "ExperienceEditorToggle\ExperienceEditorToggle.csproj", "{E6064F2B-BD04-4D8D-93C5-7DF50BB7EF6E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
